@@ -24,13 +24,9 @@ if add_pepperoni == "Y":
         bill +=2
     else:
         bill +=3
-else:
-    bill == bill
 
 extra_cheese = input ("Want some extra cheese? Y or N\n")
 if extra_cheese == "Y":
     bill +=1
-else:
-    bill == bill
 
 print(f"Your final bill is: ${bill}.")
