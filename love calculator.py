@@ -26,8 +26,8 @@ score = int(str(first_digit)+ str(second_digit))
 
 
 if score<10 or score>90:
-   print(f"Your score is {score}, you go together like coke and mentos.")
+   print(f"Your score is {score}, HOOAYDA bu ilişki bomba gibi bir ilişki.")
 elif score>40 and score<50:
-    print(f"Your score is {score}, you are alright together.")
+    print(f"Your score is {score},\nBAYAĞI GİDERSİNİZ HE.")
 else:
-    print(f"Your score is {score}.")
+    print(f"Your score is {score}.\nAmcık gibi bir ilişki.")
